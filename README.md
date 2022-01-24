@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ikram Hossain</h1>
-<h3 align="center">A passionate frontend developer from Comilla, Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikram-git-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ikram-git-coder" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Cars-Zone](https://cars-zone-b1414.web.app/)
 
-- 🌱 I’m currently learning **React Native, Redux**
+- 🌱 I’m currently learning **Next JS, Redux**
 
 - 👨‍💻 All of my projects are available at [https://ikram-akbar.netlify.app/](https://ikram-akbar.netlify.app/)
 
