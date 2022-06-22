@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ikram Akbar</h1>
-<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
+<h1 align="center">Welcome there, I'm Ikram Akbar</h1>
+<h3 align="center">A passionate Frontend developer from Dhaka, Bangladesh</h3>
 <h6 align="center"> Try to learn and enrich my knowledge </h6>
 
 - 💬 Ask me about **React, JavaScript, Node JS**
