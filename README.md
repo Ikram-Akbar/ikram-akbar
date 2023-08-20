@@ -1,5 +1,5 @@
-<h1 align="center">Welcome 👋, I'm Ikram Akabr</h1>
-<h3 align="center">A passionate frontend developer from Dhaka , Bangladesh</h3>
+<h1 align="center">Welcome 👋, I'm Ikram Akabr </h1>
+<h3 align="center">A passionate frontend developer from Cumilla , Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikram-akbar&label=Profile%20views&color=0e75b6&style=flat" alt="ikram-akbar" /> </p>
 
