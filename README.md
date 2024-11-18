@@ -40,5 +40,3 @@ I’m always open to new opportunities, collaborations, and discussions on codin
 ![Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Ikram-Akbar&hide_title=true)
 
 ---
-
-Thanks for stopping by! I believe in the power of learning by doing and am always working on new ways to improve myself and my coding skills.
