@@ -35,6 +35,9 @@ I’m always open to new opportunities, collaborations, and discussions on codin
 ## 📊 GitHub Stats
 
 ![Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ikram-Akbar&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikram-Akbar&langs_count=10&layout=compact&hide_title=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Ikram-Akbar&hide_border=true)
+![Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=Ikram-Akbar&hide_title=true)
 
 ---
 
