@@ -1,24 +1,41 @@
-<h1 align="center">Welcome 👋, I'm Ikram Akabr </h1>
+# Ikram Akbar - Developer & Problem Solver
 
+Welcome to my GitHub profile! I'm Ikram, a passionate and self-driven developer with a strong focus on competitive programming and web development. With a solid foundation in multiple technologies and an enthusiasm for building impactful projects, I am constantly improving my skills and tackling new challenges.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikram-akbar&label=Profile%20views&color=0e75b6&style=flat" alt="ikram-akbar" /> </p>
+## 📚 Skills
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikram-akbar" alt="ikram-akbar" /></a> </p>
+- **Programming Languages**: C, C++, JavaScript, TypeScript, C#
+- **Web Development**: React JS, React Bootstrap, Tailwind CSS, Angular JS
+- **Backend Technologies**: Firebase (Authentication & Firestore)
+- **Version Control**: Git, GitHub
+- **Data Structures & Algorithms**: Experienced in solving problems on competitive programming platforms like Codeforces, LeetCode, and Codechef.
 
-- 🌱 I’m currently learning **Mongoose, Redux**
+## 💡 What Drives Me
 
-- 💬 Ask me about **JavaScript**
+I thrive on problem-solving. Whether it's optimizing a complex algorithm, debugging a tricky bug, or designing a responsive UI, I find joy in overcoming challenges. I believe that every problem is an opportunity to learn something new. This mindset not only fuels my progress in competitive programming but also shapes how I approach my web development projects.
 
-- 📫 How to reach me **Ikramhossain850@gmail.com**
+## 🧑‍💻 Current Focus
 
+- **React & Firebase**: I'm currently perfecting my skills with React and Firebase, building web apps that are secure, scalable, and user-friendly.
+- **Competitive Programming**: I aim to solve more advanced problems and delve deeper into **graph theory**, **dynamic programming**, and **advanced algorithms**.
+- **Exploring ASP.NET**: Although my main focus has been on frontend technologies, I’m expanding my knowledge by exploring backend development with **ASP.NET** for full-stack development.
 
-- Me on: <a href="https://stackoverflow.com/users/14758149/ikram-akbar"><img src="https://stackoverflow.com/users/flair/14758149.png" width="208" height="58" alt="profile for Ikram Akbar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ikram Akbar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+## 🌱 Ongoing Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- **Competitive Programming Solutions**: I regularly participate in coding challenges and contribute solutions in C++, JavaScript, and other languages. You’ll find my solutions in my repositories where I tackle problems ranging from arrays to dynamic programming.
+- **Web Development**: I am working on enhancing my React and Tailwind CSS skills, focusing on creating clean, modular, and maintainable UI components.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikram-akbar&show_icons=true&locale=en&layout=compact" alt="ikram-akbar" /></p>
+## 🤝 Let’s Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikram-akbar&show_icons=true&locale=en" alt="ikram-akbar" /></p>
+I’m always open to new opportunities, collaborations, and discussions on coding, problem-solving, or tech in general. Feel free to reach out!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikram-akbar&" alt="ikram-akbar" /></p>
+- [GitHub](https://github.com/Ikram-Akbar)
+- [LinkedIn](https://www.linkedin.com/in/ikram-akbar) (Link pending)
+
+## 📊 GitHub Stats
+
+![Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ikram-Akbar&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+Thanks for stopping by! I believe in the power of learning by doing and am always working on new ways to improve myself and my coding skills.
