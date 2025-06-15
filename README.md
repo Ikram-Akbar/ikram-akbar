@@ -63,30 +63,37 @@ I believe **every problem is an opportunity to learn something new.** This minds
 ### 🚀 MERN Projects
 <div align="center">
 
-<a href="https://github.com/Ikram-Akbar/Boi-Bitan-Server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikram-Akbar&repo=Boi-Bitan-Server&theme=transparent&border_color=0C77FF" />
-</a>
-  
-**Boi Bitan Server**  
-A Node.js and Express backend for a book management web app. Features include CRUD operations, JWT authentication, and MongoDB integration for seamless data handling.
-
----
-
-<a href="https://github.com/Ikram-Akbar/Boi-Bitan-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikram-Akbar&repo=Boi-Bitan-client&theme=transparent&border_color=0C77FF" />
-</a>
-
-**Boi Bitan Client**  
-A React.js frontend for the Boi Bitan application. Implements user authentication, book listing, and dynamic UI with React Router, Tailwind CSS, and Firebase integration.
-
----
-
-<a href="https://github.com/AlgoWizardsLab/cosmoquest-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlgoWizardsLab&repo=cosmoquest-client&theme=transparent&border_color=0C77FF" />
-</a>
-
-**CosmoQuest Client**  
-A React-based project focusing on interactive quiz games and educational content with a beautiful, user-friendly interface built using modern frontend technologies.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Ikram-Akbar/Boi-Bitan-Server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikram-Akbar&repo=Boi-Bitan-Server&theme=transparent&border_color=0C77FF" />
+      </a>
+      <br/>
+      <b>Boi Bitan Server</b>  
+      <p>⚙️ <i>Node.js, Express, MongoDB, JWT</i></p>
+      <p>Robust RESTful API for book management with secure authentication and MongoDB data storage.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Ikram-Akbar/Boi-Bitan-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikram-Akbar&repo=Boi-Bitan-client&theme=transparent&border_color=0C77FF" />
+      </a>
+      <br/>
+      <b>Boi Bitan Client</b>  
+      <p>⚙️ <i>React.js, Tailwind CSS, Firebase</i></p>
+      <p>Modern web app with dynamic book listings, user authentication, and a responsive UI.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/AlgoWizardsLab/cosmoquest-client">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlgoWizardsLab&repo=cosmoquest-client&theme=transparent&border_color=0C77FF" />
+      </a>
+      <br/>
+      <b>CosmoQuest Client</b>  
+      <p>⚙️ <i>React.js, Tailwind CSS, Firebase</i></p>
+      <p>Interactive educational quiz platform with seamless navigation and engaging UI.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -95,30 +102,37 @@ A React-based project focusing on interactive quiz games and educational content
 ### 📚 Data Structures & Algorithms (DSA) Projects
 <div align="center">
 
-<a href="https://github.com/Ikram-Akbar/Shortest-Path-Algorithms">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikram-Akbar&repo=Shortest-Path-Algorithms&theme=transparent&border_color=0C77FF" />
-</a>
-
-**Shortest Path Algorithms**  
-A collection of graph algorithms focusing on shortest path problems, including Dijkstra, Bellman-Ford, and Floyd-Warshall, with clean and efficient C++ implementations.
-
----
-
-<a href="https://github.com/Ikram-Akbar/Phitron">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikram-Akbar&repo=Phitron&theme=transparent&border_color=0C77FF" />
-</a>
-
-**Phitron Programming Journey**  
-My comprehensive solution archive from Phitron courses, covering basic to advanced problem-solving in C++ including arrays, linked lists, recursion, and more.
-
----
-
-<a href="https://github.com/AlgoWizardsLab/Introduction-of-CPP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlgoWizardsLab&repo=Introduction-of-CPP&theme=transparent&border_color=0C77FF" />
-</a>
-
-**Introduction of C++**  
-An introductory repository for C++ learners, containing fundamental concepts, syntax, and basic problem-solving examples tailored for beginners.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Ikram-Akbar/Shortest-Path-Algorithms">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikram-Akbar&repo=Shortest-Path-Algorithms&theme=transparent&border_color=0C77FF" />
+      </a>
+      <br/>
+      <b>Shortest Path Algorithms</b>  
+      <p>⚙️ <i>C++, Graph Theory</i></p>
+      <p>Efficient implementations of Dijkstra, Bellman-Ford, and Floyd-Warshall algorithms for graph problems.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Ikram-Akbar/Phitron">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ikram-Akbar&repo=Phitron&theme=transparent&border_color=0C77FF" />
+      </a>
+      <br/>
+      <b>Phitron Programming Journey</b>  
+      <p>⚙️ <i>C++, Data Structures</i></p>
+      <p>Comprehensive solution archive covering arrays, linked lists, recursion, and algorithmic challenges.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/AlgoWizardsLab/Introduction-of-CPP">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlgoWizardsLab&repo=Introduction-of-CPP&theme=transparent&border_color=0C77FF" />
+      </a>
+      <br/>
+      <b>Introduction of C++</b>  
+      <p>⚙️ <i>C++ Basics, Syntax, Problem Solving</i></p>
+      <p>Beginner-friendly repository for mastering C++ fundamentals with practical examples.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
