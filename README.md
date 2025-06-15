@@ -163,7 +163,7 @@ I believe **every problem is an opportunity to learn something new.** This minds
 
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="#">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikram-Akbar&bg_color=ffffff00&color=0c77ff&line=0c77ff&point=003366&area=true&hide_border=true"/>
 </a>
 
