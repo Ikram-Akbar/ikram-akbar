@@ -6,7 +6,7 @@
 
 </div>
 
----
+
 
 ## 🙋‍♂️ About Me
 
@@ -15,7 +15,7 @@
 🔥 I’m actively learning **React**, **Firebase**, and exploring **ASP.NET** for full-stack development.  
 💞️ I love collaborating on challenging projects and sharing my solutions with the developer community.
 
----
+
 
 ## 🚀 Skills & Tools
 
@@ -34,14 +34,14 @@
 |:-:|:-:|:-:|:-:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="55" height="55"/> |
 
----
+
 
 ## 💡 What Drives Me
 
 I thrive on **problem-solving.** Whether it's debugging a tricky issue, optimizing an algorithm, or designing responsive UIs, I find joy in overcoming challenges.  
 I believe **every problem is an opportunity to learn something new.** This mindset fuels my passion for both competitive programming and web development.
 
----
+
 
 ## 🌱 Current Focus
 
@@ -49,14 +49,13 @@ I believe **every problem is an opportunity to learn something new.** This minds
 - ⚡ Advancing in **competitive programming** with a focus on graph theory, dynamic programming, and advanced algorithms
 - 🖥️ Exploring backend development with **ASP.NET** for full-stack capabilities
 
----
 
 ## 🧑‍💻 Ongoing Projects
 
 - 📚 **Competitive Programming Solutions**: Regularly solving problems on platforms like Codeforces, LeetCode, and CodeChef. Check out my solutions in my repositories!
 - 🌐 **Web Development**: Actively working on creating modular, responsive, and maintainable UI components with React and Tailwind CSS.
 
----
+
 
 ## 📂 Featured Projects
 
@@ -97,7 +96,7 @@ I believe **every problem is an opportunity to learn something new.** This minds
 
 </div>
 
----
+
 
 ### 📚 Data Structures & Algorithms (DSA) Projects
 <div align="center">
@@ -136,7 +135,7 @@ I believe **every problem is an opportunity to learn something new.** This minds
 
 </div>
 
----
+
 
 ## 📊 GitHub Statistics
 
@@ -158,7 +157,7 @@ I believe **every problem is an opportunity to learn something new.** This minds
 
 </div>
 
----
+
 
 ## 📈 GitHub Activity Graph
 
@@ -170,7 +169,7 @@ I believe **every problem is an opportunity to learn something new.** This minds
 
 </div>
 
----
+
 
 ## ✍️ Random Dev Quote
 
@@ -180,7 +179,6 @@ I believe **every problem is an opportunity to learn something new.** This minds
 
 </div>
 
----
 
 ## 🤝 Let’s Connect
 
@@ -199,7 +197,4 @@ I believe **every problem is an opportunity to learn something new.** This minds
 </a>
 
 </div>
-
----
-
-## 🙌 Thank you for visiting!
+ 🙌 Thank you for visiting!
